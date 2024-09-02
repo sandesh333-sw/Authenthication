@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyBOlxjTf8pN6SRLqixZK18GfPX4LU_anKk</string>
+	<key>CLIENT_ID</key>
+	<string>439452598995-abcde12345fghij.apps.googleusercontent.com</string> <!-- Ensure this is correct -->
+	<key>GCM_SENDER_ID</key>
+	<string>439452598995</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.authenthication</string>
+	<key>PROJECT_ID</key>
+	<string>auth-88e83</string>
+	<key>STORAGE_BUCKET</key>
+	<string>auth-88e83.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:439452598995:ios:228608ccb9f1bd8d0aca26</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.439452598995-abcde12345fghij</string> <!-- This must match your CLIENT_ID in reverse -->
+</dict>
+</plist>
